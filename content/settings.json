@@ -1,24 +1,24 @@
 {
-  "store_id": 4541,
-  "name": "travassos",
   "domain": "travassos.netlify.app",
-  "short_name": "travassos",
-  "description": "travassos",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cyborg",
+    "custom": "niche-game"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/travassos",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "travassos",
+  "short_name": "travassos",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/travassos"
+  "secondary_color": "#fb0404",
+  "icon": "/img/icon.png",
+  "store_id": 4541,
+  "description": "travassos",
+  "large_icon": "/img/large-icon.png"
 }
