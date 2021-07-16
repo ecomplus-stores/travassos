@@ -3,12 +3,12 @@
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
-    "bootswatch": "cyborg",
+    "bootswatch": "lumen",
     "custom": "niche-game"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#dedede",
   "repository": "ecomplus-stores/travassos",
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/central-sos.png",
   "name": "travassos",
   "short_name": "travassos",
   "lang": "pt_br",
