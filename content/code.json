@@ -1,5 +1,5 @@
 {
   "css": "",
   "html_head": "",
-  "html_body": ""
+  "html_body": "<script type='text/javascript' charset='utf-8'>\n  window.liveSiteAsyncInit = function() {\n    LiveSite.init({\n      id : 'WI-1WWOTJJ6W2UUQ54UHNNJ'\n    });\n  };\n  (function(d, s, id){\n    var js, fjs = d.getElementsByTagName(s)[0],\n        p = 'https://',\n        r = Math.floor(new Date().getTime() / 1000000);\n    if (d.getElementById(id)) {return;}\n    js = d.createElement(s); js.id = id;\n    js.src = p + \"d2ra6nuwn69ktl.cloudfront.net/assets/livesite.js?\" + r;\n    fjs.parentNode.insertBefore(js, fjs);\n  }(document, 'script', 'livesite-jssdk'));\n</script>"
 }
