@@ -1,5 +1,5 @@
 {
-  "css": "<script id=\"swfgd\" data-public-auth=\"eyJhbGciOiJzaGEyNTYiLCJkYXRhX3R5cGUiOiJqc29uIn0=.eyJibG9nX2lkIjoxNzQyOSwidXNlcl9pZCI6ODIzLCJzY29wZSI6WyJXaGF0c0NoYXRDb250cm9sbGVyQGdldEZyb250IiwiTGVhZENvbnRyb2xsZXJAY2FkYXN0cmEiXX0=.YTM0ZThhNTQ0MWY3OTJjNzEwMWQ3NWE5MDc1MWU5NTM1NmRmY2NiN2U1MTdiYmQwNzRiYjIwMmYzMDc1YzZmNw==\" src=\"https://gdigital.sfo2.digitaloceanspaces.com/s3/general/whatschat/wf.js\" async> </script>",
+  "css": "\n",
   "html_head": "",
-  "html_body": ""
+  "html_body": "<script id=\"swfgd\" data-public-auth=\"eyJhbGciOiJzaGEyNTYiLCJkYXRhX3R5cGUiOiJqc29uIn0=.eyJibG9nX2lkIjoxNzQyOSwidXNlcl9pZCI6ODIzLCJzY29wZSI6WyJXaGF0c0NoYXRDb250cm9sbGVyQGdldEZyb250IiwiTGVhZENvbnRyb2xsZXJAY2FkYXN0cmEiXX0=.YTM0ZThhNTQ0MWY3OTJjNzEwMWQ3NWE5MDc1MWU5NTM1NmRmY2NiN2U1MTdiYmQwNzRiYjIwMmYzMDc1YzZmNw==\" src=\"https://gdigital.sfo2.digitaloceanspaces.com/s3/general/whatschat/wf.js\" async> </script>"
 }
