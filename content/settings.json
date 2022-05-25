@@ -1,24 +1,24 @@
 {
-  "domain": "travassos.netlify.app",
+  "domain": "gibaofazarte.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#3d292d",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#dedede",
+  "bg_color": "#3d292d",
   "repository": "ecomplus-stores/travassos",
-  "logo": "/img/uploads/lapis-de-cor-presentes-logo.png",
-  "name": "travassos",
-  "short_name": "travassos",
+  "logo": "/img/uploads/gibao-faz-arte-gibaofazarte-du-gibao.png",
+  "name": "Gibão Faz Arte",
+  "short_name": "Gibão Faz Arte",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/gibao-faz-arte-gibaofazarte-du-gibao-.png",
   "country_code": "BR",
-  "secondary_color": "#fb0404",
-  "icon": "/img/icon.png",
+  "secondary_color": "#f7b41b",
+  "icon": "/img/uploads/gibao-faz-arte-gibaofazarte-du-gibao-.png",
   "store_id": 4541,
-  "description": "travassos",
-  "large_icon": "/img/large-icon.png"
+  "description": "Gibão Faz Arte",
+  "large_icon": "/img/uploads/gibao-faz-arte-gibaofazarte-du-gibao-.png"
 }
