@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
 
       - name: Optimize with Calibre's image actions
         uses: calibreapp/image-actions@main
@@ -33,11 +33,11 @@ jobs:
       - name: Squash and merge
         if: |
           contains(github.event.pull_request.body, 'Automerge**: Enabled')
-        uses: actions/github-script@v6
+        uses: actions/github-script@v4
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            await github.rest.pulls.merge({
+            await github.pulls.merge({
               owner: context.repo.owner,
               repo: context.repo.repo,
               pull_number: context.payload.pull_request.number,

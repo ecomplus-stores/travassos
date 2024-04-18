@@ -14,11 +14,11 @@ jobs:
 
     steps:
       - name: Squash and merge
-        uses: actions/github-script@v6
+        uses: actions/github-script@v4
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            await github.rest.pulls.merge({
+            await github.pulls.merge({
               owner: context.repo.owner,
               repo: context.repo.repo,
               pull_number: context.payload.pull_request.number,
